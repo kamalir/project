@@ -1,0 +1,3 @@
+hadoop jar ka.jar Third /niit2/h1b_kaggle.csv /niit2/out2
+
+
